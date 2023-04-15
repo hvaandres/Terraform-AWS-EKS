@@ -8,10 +8,7 @@
 # EC2_Instance:
 - We will create an EC2 instance with a public IP.
 - We will install docker on the EC2 instance.
-- We will install kubectl on the EC2 instance.
-- We will install helm on the EC2 instance.
 - We will install awscli on the EC2 instance.
-- We will install eksctl on the EC2 instance.
 - We will install terraform on the EC2 instance.
 
 ## Notes
