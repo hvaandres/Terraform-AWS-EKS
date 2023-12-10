@@ -1,4 +1,4 @@
-# Let's create project "AWS - ECS/EKS"
+# Let's create project "AWS - ECS/EKS" through Terraform
 - The idea of this project is to create an AWS EC2 Instance to later on being able to add our following application: 
   - The application will have to be simple with a connection to a DB.
   - This application will create a DJango application with a connection to a postgress DB.
